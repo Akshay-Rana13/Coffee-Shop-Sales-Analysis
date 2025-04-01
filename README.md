@@ -5,7 +5,7 @@
 The objective is to analyze sales patterns, identify peak hours, track revenue growth, and determine the most profitable products and locations using Excel-based analysis.
 
 ## Dataset Used
-
+<a href="https://github.com/Akshay-Rana13/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales%20(0riginal%20dataset).xlsx">Dataset</a>
 
 ## Key Performance Indicators (KPIs)
 - Total Sales Revenue – Analyzing revenue over different time periods
