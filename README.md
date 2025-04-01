@@ -8,12 +8,13 @@ The objective is to analyze sales patterns, identify peak hours, track revenue g
 <a href="https://github.com/Akshay-Rana13/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales%20(0riginal%20dataset).xlsx">Dataset</a>
 
 ## Key Performance Indicators (KPIs)
-- Total Sales Revenue – Analyzing revenue over different time periods
-- Sales by Day & Hour – Identifying peak business hours
-- Sales by Store Location – Comparing store performance
-- Average Price per Order – Understanding customer spending behavior
-- Best-Selling Products – Determining top-selling items by quantity and revenue
-- Sales by Product Category – Evaluating demand across product groups
+- How do sales vary by day of the week and hour of the day?
+- Are there any peak times for sales activity?
+- What is the total sales revenue for each month?
+- How do sales vary across different store locations?
+- What is the average price/order per person?
+- Which products are the best-selling in terms of quantity and revenue?
+- How do sales vary by product category and type?
 
 ## Data Processing in Excel
 - Data Cleaning – Removed duplicates and handled missing values
