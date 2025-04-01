@@ -21,6 +21,10 @@ The objective is to analyze sales patterns, identify peak hours, track revenue g
 - Pivot Tables & Charts – Created for dynamic sales analysis
 - Conditional Formatting – Highlighted key insights like top sales performers
 
+## Dashboard
+![Coffee Sales Dashboard Image](https://github.com/user-attachments/assets/393be70f-bfdf-4dad-b1c6-7804cb828781)
+
+
 ## Analysis Insights
 - Peak Sales Times – Sales peak during morning and evening hours
 - Top-Performing Stores – Certain locations generate significantly higher revenue
